@@ -21,9 +21,15 @@ Documentación:
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html#grant-least-privilege
 - https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html
 - https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html
+- https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instances-and-amis.html
+- https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html
+- https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html
+- https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingBucket.html
+- https://docs.aws.amazon.com/AmazonS3/latest/userguide/Versioning.html
+- https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lifecycle-mgmt.html
 - https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
 - https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtime-environment.html#runtimes-lifecycle
-- 
+  
 
 ## Ejercicios:
 1. General
