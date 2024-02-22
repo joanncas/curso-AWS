@@ -2,6 +2,9 @@
 
 Distintas certificaciones según el path. https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf
 
+***
+## Cursos Udemy:
+
 Curso Cloud practitioner - https://www.udemy.com/course/certified-cloud-practitioner-aws/?couponCode=24T4FS22124
 
 Curso Solutions Architect Associate - https://www.udemy.com/course/certified-solutions-architect-associate-aws/?couponCode=24T4FS22124
@@ -12,8 +15,9 @@ Curso DevOps Professional - https://www.udemy.com/course/aws-certified-devops-en
 
 Curso Solutions Architect Professional - https://www.udemy.com/course/aws-solutions-architect-professional/?couponCode=24T4FS22124
 
+***
+## Documentación AWS recomendada
 
-Documentación:
 - https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
 - https://docs.aws.amazon.com/vpc/latest/userguide/configure-your-vpc.html
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/when-to-use-iam.html
